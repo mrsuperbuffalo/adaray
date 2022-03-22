@@ -1,0 +1,9 @@
+name = "adaray"
+description = "Shiny new project"
+version = "0.0.0"
+
+authors = ["Richard Lewis"]
+maintainers = ["Richard Lewis <rwl5114@gmail.com>"]
+maintainers-logins = ["mrsuperbuffalo"]
+
+executables = ["adaray"]
